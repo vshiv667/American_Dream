@@ -1,6 +1,6 @@
 ## American_Dream
 Does the American Dream depend on the block you grew up as a kid? 
-Statistical tests coupled with causal inference used to find out key factors.
+Statistical tests coupled with statistical inference used to find out key factors.
 
 ## Blog
 
